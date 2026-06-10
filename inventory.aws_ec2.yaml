@@ -6,3 +6,6 @@ aws_access_key: AKIA5AEZ4EYJWPMUKCU3
 aws_secret_key: 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
 regions:
 - us-east-1
+hostnames:
+  # This option allows displaying the public ip addresses.
+  - ip-address
