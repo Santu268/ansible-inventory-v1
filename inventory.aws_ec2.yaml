@@ -9,3 +9,6 @@ regions:
 hostnames:
   # This option allows displaying the public ip addresses.
   - ip-address
+  - name: 'private-ip-address'
+    separator: '_'
+    prefix: 'tag:Name'
