@@ -1,9 +1,9 @@
 plugin: amazon.aws.aws_ec2
 
 # The access key for your AWS account.
-aws_access_key: AKIA5AEZ4EYJWPMUKCU3
-# The secret access key for your AWS account.
-aws_secret_key: 7+1oOAM1tZbHUUcI667ZLL9PkxjpEGqMVhO+opjd
+# aws_access_key: can be given
+# # The secret access key for your AWS account.
+# aws_secret_key: can be given
 regions:
 - us-east-1
 hostnames:
